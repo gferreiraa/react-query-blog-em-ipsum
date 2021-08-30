@@ -48,4 +48,4 @@ npm start
 ## Additional Documentation:
 
 - [React Query](https://react-query.tanstack.com/)
-- [Modelo Git Flow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Git Flow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
