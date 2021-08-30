@@ -37,7 +37,7 @@ To install the necessary dependencies just run:
 npm install
 ```
 
-### Executando o projeto:
+### Running the project:
 
 To run the project, run the command below. It will be accessible on port 3000, available at: http://localhost:3000/
 
