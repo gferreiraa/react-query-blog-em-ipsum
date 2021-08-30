@@ -12,7 +12,7 @@ For this proposed test model, React query was used to perform asynchronous reque
 
 The API used in this test was the [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 
-![React App](![React App](https://user-images.githubusercontent.com/21059225/131282582-235fdb8b-cf17-4c14-87ba-564eadcbf275.gif))
+![React App](https://user-images.githubusercontent.com/21059225/131282582-235fdb8b-cf17-4c14-87ba-564eadcbf275.gif)
 
 ### Resources:
 
